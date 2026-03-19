@@ -1,0 +1,36 @@
+h3{
+    text-align: center;
+}
+
+@media(min-width: 768px){
+.div2{
+    justify-content: space-around;
+    display: flex;
+    background-color: green;
+}
+
+.div3{
+    background-color: purple;
+    
+}
+}
+@media(min-width: 1024px){
+
+    .div1{
+    justify-content: space-around;
+    display: flex;
+    background-color:aqua;
+}
+    .div2{
+    justify-content: space-around;
+    display: flex;
+    background-color: gray;
+
+}
+.div3{
+    
+    background-color: red;
+    
+}
+   
+}
